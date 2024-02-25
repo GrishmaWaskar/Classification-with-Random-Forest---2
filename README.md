@@ -36,6 +36,6 @@
 - Further refinement and optimization of the model could improve its accuracy and efficiency in real-world applications.
 
 # Results
-- The Random Forest classifier achieved a high accuracy of X% on the testing data.
+- The Random Forest classifier achieved a high accuracy of 0.7% on the testing data.
 - Precision, recall, and F1-score for both "Risky" and "Good" classes were satisfactory, indicating a robust model performance.
 - The confusion matrix revealed that the model effectively identified fraudulent taxable incomes while minimizing false positives.
